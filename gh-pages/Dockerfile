@@ -5,10 +5,10 @@ LABEL "com.github.actions.description"="Deploy to gh-pages"
 LABEL "com.github.actions.icon"="cloud"
 LABEL "com.github.actions.color"="white"
 
-LABEL version="0.0.1"
+LABEL version="0.0.2"
 LABEL maintainer="Haishan <haishanhan@gmail.com>"
-LABEL repository="http://github.com/haishanh/github-actions-foo"
-LABEL homepage="http://github.com/haishanh/github-actions-foo/actions/gh-pages"
+LABEL repository="http://github.com/haishanh/actions"
+LABEL homepage="http://github.com/haishanh/actions/gh-pages"
 
 RUN apk add git
 
